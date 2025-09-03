@@ -1,0 +1,13 @@
+Core Streamlit library
+streamlit==1.30.0
+
+Common data manipulation and analysis libraries
+pandas==2.2.0
+numpy==1.26.4
+
+A popular visualization library
+matplotlib==3.8.2
+plotly==5.18.0
+
+If you're building a machine learning app
+scikit-learn==1.4.0
